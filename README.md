@@ -12,3 +12,7 @@ This is a python programme using selenium to collect ticket information from Sin
 CheckTicket.show()会展示最终的输出结果
 
 使用时，记得将第81行        PATH = r"D:\anaconda\envs\WebScraping\drivers\chromedriver.exe" 的webdriver安装路径换成你自己的
+
+This is the sample output:
+
+![screenshot at 2022/06/20](https://github.com/blue-vision0/Collect-Ticket-Information-from-Singapore-Airline-Group-with-multiple-destinations/blob/main/sample.png?raw=true)
