@@ -14,7 +14,8 @@ CheckTicket.show()会展示最终的输出结果
 ## 使用须知
 1.使用此程序依赖chrome浏览器和对应chrome版本的selenium driver  
 2.使用前可以通过pip install -r requirements.txt安装对应的依赖库，但是selenium driver需要到官方网站自行安装  
-3.使用时，记得将第81行        PATH = r"D:\anaconda\envs\WebScraping\drivers\chromedriver.exe" 的webdriver安装路径换成你自己的selenium driver  
+3.你可以通过[这个网站](https://chromedriver.chromium.org/downloads)来下载对应你的浏览器版本的selenium driver  
+4.使用时，记得将第81行        PATH = r"D:\anaconda\envs\WebScraping\drivers\chromedriver.exe" 的webdriver安装路径换成你自己的selenium driver，并且记住不要删除引号前面的r    
 
 This is the sample output:
 
