@@ -11,7 +11,10 @@ This is a python programme using selenium to collect ticket information from Sin
 具体请调用 CheckTicket.search("落地城市","指定日期")
 CheckTicket.show()会展示最终的输出结果
 
-使用时，记得将第81行        PATH = r"D:\anaconda\envs\WebScraping\drivers\chromedriver.exe" 的webdriver安装路径换成你自己的
+## 使用须知
+1.使用此程序依赖chrome浏览器和对应chrome版本的selenium driver  
+2.使用前可以通过pip install -r requirements.txt安装对应的依赖库，但是selenium driver需要到官方网站自行安装  
+3.使用时，记得将第81行        PATH = r"D:\anaconda\envs\WebScraping\drivers\chromedriver.exe" 的webdriver安装路径换成你自己的selenium driver  
 
 This is the sample output:
 
