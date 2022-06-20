@@ -1,0 +1,2 @@
+prettytable==3.3.0
+selenium==4.2.0
