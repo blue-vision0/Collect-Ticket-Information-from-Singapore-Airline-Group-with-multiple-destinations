@@ -8,7 +8,7 @@ This is a python programme using selenium to collect ticket information from Sin
 
 这个程序可以让你查询从新加坡出发，到某指定月份之前的所有航班班次和价格信息
 
-具体请调用 CheckTicket.search("落地城市","指定日期")
+具体请调用 CheckTicket.search("落地城市","指定日期")  
 CheckTicket.show()会展示最终的输出结果
 
 ## 使用须知
